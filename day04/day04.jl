@@ -1,5 +1,7 @@
 module Day04
 
+# https://adventofcode.com/2015/day/4
+
 include("./../aoc.jl")
 
 using .AOC
