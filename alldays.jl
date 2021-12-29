@@ -22,7 +22,7 @@ end
 
 clearterminal()
 println()
-println(bold("Advent of Code 2021"))
+println(bold("Advent of Code 2015"))
 
 for i in 1:25
     stats = @timed showday(i) || break
