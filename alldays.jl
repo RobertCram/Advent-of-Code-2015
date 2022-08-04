@@ -20,6 +20,9 @@ function showday(i)
     return true
 end
 
+import Pkg
+Pkg.activate("")
+
 clearterminal()
 println()
 println(bold("Advent of Code 2015"))
